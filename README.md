@@ -9,7 +9,7 @@
   <img src="https://iadf-school.org/wp-content/uploads/2022/09/logo_iadfschool.png" height="60" alt="IADF School">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
-  
+</div>
 ---
 
 Material for **Towards Realistic and Trustworthy Super-Resolution for Multispectral Remote Sensing Images** at [IADF School 2025](https://web.gcompostela.org/icc/iadf2025/).
