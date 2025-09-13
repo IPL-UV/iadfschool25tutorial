@@ -10,6 +10,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
 </div>
+
 ---
 
 Material for **Towards Realistic and Trustworthy Super-Resolution for Multispectral Remote Sensing Images** at [IADF School 2025](https://web.gcompostela.org/icc/iadf2025/).
