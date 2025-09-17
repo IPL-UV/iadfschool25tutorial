@@ -31,7 +31,7 @@ Material for **Towards Realistic and Trustworthy Super-Resolution for Multispect
 
 | Time (CEST) | Topic | Materials |
 |-------------|-------|-----------|
-| 13:40-15:10 | **Part I: Fundamentals & Theory** | [📖 Introduction to Super-Resolution](./01_introduction.md)<br/>[📊 Theory and Methods](./02_theory_methods.md) |
+| 13:40-15:10 | **Part I: Fundamentals & Theory** | [📖 Introduction to Super-Resolution](./2025-09-17-IEEE-GRSS-IADF-School-OpenSR.pdf) |
 | 15:10-15:30 | ☕ *Coffee Break* | |
 | 15:30-17:00 | **Part II: Hands-on Implementation** | [🚀 Tutorial 1: Training SR models](https://colab.research.google.com/github/IPL-UV/iadfschool25tutorial/blob/main/tutorial01.ipynb)<br/>[🔬 Tutorial 2: Inference SR models](https://colab.research.google.com/github/IPL-UV/iadfschool25tutorial/blob/main/tutorial02.ipynb)<br/>[⚡ Tutorial 3: Benchmarking and evaluation](https://colab.research.google.com/github/IPL-UV/iadfschool25tutorial/blob/main/tutorial03.ipynb) |
 
